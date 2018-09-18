@@ -1,5 +1,3 @@
-# googlemap-business-scraper
- based on google map business results
 
 Business directory scraper : Python code for extracting google map business information.
 ==================
